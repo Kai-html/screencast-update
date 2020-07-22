@@ -1,0 +1,40 @@
+<style> 
+    .try{
+        color:blue
+    }
+    .headings{
+        color:darkred;
+        font-family:Helvetica;
+        font-size: 24px;
+        margin: 0 auto;
+        max-width: -1em;
+        line-height: 1;
+        padding: 1em 1em;
+    }
+    .heading1{
+        color:darkred;
+        font-family:Helvetica;
+        font-size: 40px;
+        margin: -20 auto;
+        max-width: 11em;
+        line-height: 1;
+        padding: 1em 1em;
+    }
+        .list{
+        color:darkred;
+        font-family:Helvetica;
+        margin: -50 auto;
+        max-width: 25em;
+        line-height: 1.2;
+        padding: -6em 1em;
+    }
+    pre {
+        border-bottom: 20px solid #69c;
+        border-top:20px solid #69c;
+        border-left: 20px solid #69c;
+        border-right: 20px solid #69c;
+      }
+      body {
+        color: #a7adba
+      }
+</style>
